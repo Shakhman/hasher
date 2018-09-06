@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd laradock*
+
+docker-compose exec workspace bash -e ./install/composer_db
+echo "Ok"
