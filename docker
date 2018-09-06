@@ -6,4 +6,4 @@ docker-compose up -d --force-recreate nginx php-fpm mysql phpmyadmin php-worker
 
 cd ..
 
-npm run watch-poll
+# npm run watch-poll
