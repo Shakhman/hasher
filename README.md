@@ -31,3 +31,5 @@ create db hasher
 php artisan schedule:run
 
 phpunit
+
+exit from workspace
